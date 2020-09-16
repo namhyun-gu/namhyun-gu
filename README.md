@@ -16,10 +16,8 @@
   #Kotlin #Koin #MVVM #School_Project
 - **[SceneSpotInSeoul](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/SceneSpotInSeoul.md)** -
   #Java #Kotlin #Seoul_App_Contest_2018
-- **[BitcoinSimulator](https://github.com/namhyun-gu/BitcoinSimulator)** -
+- **[BitcoinSimulator](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/BitcoinSimulator.md)** -
   #Kotlin #MVVM #AAC #RxJava
-- **[seoul-2018](https://github.com/namhyun-gu/seoul-2018)** -
-  #Kotlin #AAC
 - **[android-playground](https://github.com/namhyun-gu/android-playground)** -
   #Practices
 
