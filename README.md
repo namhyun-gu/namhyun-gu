@@ -1,10 +1,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=namhyun-gu&show_icons=true" />
 
-## Projects
+## 프로젝트
+
+> 프로젝트별 링크를 통해 세부 정보를 확인할 수 있습니다
 
 ### Android
 
-- **[geo-key](https://github.com/namhyun-gu/geo-key)** -
+- **[geo-key](projects/geo-key.md)** -
   #Kotlin #Jetpack #Dagger_Hilt #MVVM #Clean_Architecture #Coroutine
 - **[MealViewer](https://github.com/namhyun-gu/MealViewer)** -
   #Java #Dagger_2 #MVP #RxJava
@@ -20,6 +22,10 @@
   #Kotlin #AAC
 - **[android-playground](https://github.com/namhyun-gu/android-playground)** -
   #Practices
+
+### Kotlin
+
+- **[ksp-example](https://github.com/namhyun-gu/ksp-example)** - #Kotlin_Symbol_Processing_API
 
 ### Flutter
 
