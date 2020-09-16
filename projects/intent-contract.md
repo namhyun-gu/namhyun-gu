@@ -5,6 +5,7 @@
 ### 바로가기
 
 - [Github](https://github.com/namhyun-gu/intent-contract)
+- [Bintray](https://bintray.com/namhyun-gu/intentcontract/intentcontract-compiler/0.1.2)
 
 ### 사용한 언어
 

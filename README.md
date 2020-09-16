@@ -6,43 +6,36 @@
 
 ### Android
 
-- **[geo-key](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/geo-key.md)** -
-  #Kotlin #Jetpack #Dagger_Hilt #MVVM #Clean_Architecture #Coroutine
-- **[MealViewer](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/MealViewer.md)** -
-  #Java #Dagger_2 #MVP #RxJava
-- **[intent-contract](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/intent-contract.md)** -
-  #Kotlin #Annotation_Processor
-- **[mapp](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/mapp.md)** -
-  #Kotlin #Koin #MVVM #School_Project
-- **[SceneSpotInSeoul](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/SceneSpotInSeoul.md)** -
-  #Java #Kotlin #Seoul_App_Contest_2018
-- **[BitcoinSimulator](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/BitcoinSimulator.md)** -
-  #Kotlin #MVVM #AAC #RxJava
+- [geo-key](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/geo-key.md)
+  <p>#Kotlin #Dagger Hilt #MVVM #Clean Architecture #Coroutine </p>
+- [MealViewer](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/MealViewer.md)
+  <p>#Java #Dagger 2 #MVP #RxJava</p>
+- [intent-contract](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/intent-contract.md)
+  <p>#Kotlin #Annotation Processor</p>
+- [mapp](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/mapp.md)
+  <p>#Kotlin #Koin #MVVM #Coroutine #학교수업 프로젝트</p>
+- [SceneSpotInSeoul](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/SceneSpotInSeoul.md)
+  <p>#Java #Kotlin #서울시 앱공모전 2018</p>
+- [BitcoinSimulator](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/BitcoinSimulator.md)
+  <p>#Kotlin #MVVM #AAC #RxJava</p>
 
 ### Flutter
 
-- **[flutter_rich_text_editor](https://github.com/namhyun-gu/flutter_rich_text_editor)** -
-  #Library
-- **[preference_helper](https://github.com/namhyun-gu/preference_helper)** -
-  #Library #Bloc
-- **[fill-memo](https://github.com/smu-gp/fill-memo)** -
-  #Bloc #gRPC #School_Project
+- [flutter_rich_text_editor](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/flutter_rich_text_editor.md)
+  <p>#Library</p>
+- [preference_helper](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/preference_helper.md)
+  <p>#Library #Bloc</p>
+- [fill-memo](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/fill-memo.md)
+  <p>#Bloc #gRPC #졸업 프로젝트</p>
 
 ### Go
 
-- **[key-letter](https://github.com/namhyun-gu/key-letter)** -
-  #gRPC #Redis
-- **[sp-auth-server](https://github.com/smu-gp/sp-auth-server)** -
-  #gRPC #Redis #School_Project
+- [key-letter](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/key-letter.md)
+  <p>#gRPC #Redis</p>
 
 ### Node.js
 
-- **[repo-watcher](https://github.com/namhyun-gu/repo-watcher)** -
-  #Typescript #Babel #Mailling_Service
-- **[contest-crawler-bot](https://github.com/namhyun-gu/contest-crawler-bot)** -
-  #Telegram_Bot
-
-### React
-
-- **[SceneSpotInSeoul-Database-Explorer](https://github.com/three-s/SceneSpotInSeoul-Database-Explorer)** -
-  #Seoul_App_Contest_2018
+- [repo-watcher](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/repo-watcher.md)
+  <p>#Typescript #Babel #메일링 서비스</p>
+- [contest-crawler-bot](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/contest-crawler-bot.md)
+  <p>#Telegram Bot</p>
