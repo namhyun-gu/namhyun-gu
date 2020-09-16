@@ -10,7 +10,7 @@
   #Kotlin #Jetpack #Dagger_Hilt #MVVM #Clean_Architecture #Coroutine
 - **[MealViewer](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/MealViewer.md)** -
   #Java #Dagger_2 #MVP #RxJava
-- **[intent-contract](https://github.com/namhyun-gu/intent-contract)** -
+- **[intent-contract](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/intent-contract.md)** -
   #Kotlin #Annotation_Processor
 - **[mapp](https://github.com/team-mapp/mapp)** -
   #Kotlin #Koin #MVVM #School_Project
