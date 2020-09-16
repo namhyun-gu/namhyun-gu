@@ -6,7 +6,7 @@
 
 ### Android
 
-- **[geo-key](projects/geo-key.md)** -
+- **[geo-key](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/geo-key.md)** -
   #Kotlin #Jetpack #Dagger_Hilt #MVVM #Clean_Architecture #Coroutine
 - **[MealViewer](https://github.com/namhyun-gu/MealViewer)** -
   #Java #Dagger_2 #MVP #RxJava
