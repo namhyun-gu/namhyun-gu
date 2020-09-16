@@ -23,4 +23,4 @@
 
 ### 스크린샷
 
-<img src="https://github.com/namhyun-gu/namhyun-gu/raw/master/art/repo-watcher.jpg" width="320">
+<img src="art/repo-watcher.jpg" width="320">
