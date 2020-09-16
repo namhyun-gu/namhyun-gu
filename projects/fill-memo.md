@@ -70,8 +70,6 @@ Flutter의 TextField 동작 과정을 소스코드 분석을 통해 알아냈고
 
 - Rich Text Editor
 
-https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_1.png
-
 ![rich-text-editor_1](https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_1.png)
 ![rich-text-editor_2](https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_2.png)
 ![rich-text-editor_3](https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_3.png)
