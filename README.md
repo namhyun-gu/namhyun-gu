@@ -2,7 +2,7 @@
 
 ## 프로젝트
 
-> 프로젝트별 링크를 통해 세부 정보를 확인할 수 있습니다
+> 프로젝트 별 링크를 통해 세부 정보를 확인할 수 있습니다
 
 ### Android
 
@@ -18,12 +18,6 @@
   #Java #Kotlin #Seoul_App_Contest_2018
 - **[BitcoinSimulator](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/BitcoinSimulator.md)** -
   #Kotlin #MVVM #AAC #RxJava
-- **[android-playground](https://github.com/namhyun-gu/android-playground)** -
-  #Practices
-
-### Kotlin
-
-- **[ksp-example](https://github.com/namhyun-gu/ksp-example)** - #Kotlin_Symbol_Processing_API
 
 ### Flutter
 
