@@ -1,6 +1,10 @@
-# [geo-key](https://github.com/namhyun-gu/geo-key)
+# geo-key
 
 > 위치를 기반으로 저장한 키들을 확인하고 관리하는 애플리케이션입니다.
+
+### 바로가기
+
+- [Github](https://github.com/namhyun-gu/geo-key)
 
 ### 사용한 언어
 
@@ -28,7 +32,7 @@
 UseCase들은 지속적으로 데이터를 전달하는 경우와 그렇지 않은 경우에 따라 구분한 FlowUseCase와 UseCase를 사용하며, Dagger Hilt를 통해 ViewModel에 주입하여 서비스의 기능들을 구현합니다.
 
 현재 Jetpack Navigation을 통해 Single Activity로 전환하고 있으며,
-추후 Jetpack Compose가 안정적으로 업데이트 될 떄 Jetpack compose로의 전환을 계획하고 있습니다.
+추후 Jetpack Compose가 안정적인 버전으로 업데이트 될 떄 Jetpack compose로의 전환을 계획하고 있습니다.
 
 <details>
 <summary>UseCase 예시</summary>
