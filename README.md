@@ -8,7 +8,7 @@
 
 - **[geo-key](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/geo-key.md)** -
   #Kotlin #Jetpack #Dagger_Hilt #MVVM #Clean_Architecture #Coroutine
-- **[MealViewer](https://github.com/namhyun-gu/MealViewer)** -
+- **[MealViewer](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/MealViewer.md)** -
   #Java #Dagger_2 #MVP #RxJava
 - **[intent-contract](https://github.com/namhyun-gu/intent-contract)** -
   #Kotlin #Annotation_Processor
