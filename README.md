@@ -14,7 +14,7 @@
   #Kotlin #Annotation_Processor
 - **[mapp](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/mapp.md)** -
   #Kotlin #Koin #MVVM #School_Project
-- **[SceneSpotInSeoul](https://github.com/three-s/SceneSpotInSeoul)** -
+- **[SceneSpotInSeoul](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/SceneSpotInSeoul.md)** -
   #Java #Kotlin #Seoul_App_Contest_2018
 - **[BitcoinSimulator](https://github.com/namhyun-gu/BitcoinSimulator)** -
   #Kotlin #MVVM #AAC #RxJava
