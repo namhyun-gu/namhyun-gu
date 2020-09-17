@@ -1,16 +1,18 @@
 # geo-key
 
-> 위치를 기반으로 저장한 키들을 확인하고 관리하는 애플리케이션입니다.
+위치를 기반으로 저장한 키들을 확인하고 관리하는 애플리케이션입니다.
 
-### 바로가기
+## 바로가기
 
 - [Github](https://github.com/namhyun-gu/geo-key)
 
-### 사용한 언어
+## 프로젝트 정보
+
+### 언어
 
 - Kotlin
 
-### 사용한 기술
+### 기술
 
 - **Dagger Hilt**
 - **Coroutine**
@@ -25,7 +27,7 @@
 
 - **MVVM, Clean Architecture**
 
-### 노트
+## 노트
 
 이 프로젝트는 [google/iosched](https://github.com/google/iosched)의 Clean Architecture와 MVVM 패턴, 그리고 Coroutine를 이용하여 개발한 프로젝트입니다.
 
@@ -34,8 +36,7 @@ UseCase들은 지속적으로 데이터를 전달하는 경우와 그렇지 않�
 현재 Jetpack Navigation을 통해 Single Activity로 전환하고 있으며,
 추후 Jetpack Compose가 안정적인 버전으로 업데이트 될 떄 Jetpack compose로의 전환을 계획하고 있습니다.
 
-<details>
-<summary>UseCase 예시</summary>
+- UseCase 예시 ([GetAddressUseCase.kt](https://github.com/namhyun-gu/geo-key/blob/master/app/src/main/java/dev/namhyun/geokey/domain/location/GetAddressUseCase.kt))
 
 ```kotlin
 class GetAddressUseCase @Inject constructor(
@@ -54,10 +55,7 @@ class GetAddressUseCase @Inject constructor(
 }
 ```
 
-</details>
-
-<details>
-<summary>FlowUseCase 예시</summary>
+- FlowUseCase ([GetLocationsUseCase.kt](https://github.com/namhyun-gu/geo-key/blob/master/app/src/main/java/dev/namhyun/geokey/domain/location/GetLocationsUseCase.kt))
 
 ```kotlin
 @ExperimentalCoroutinesApi
@@ -76,10 +74,7 @@ class GetLocationsUseCase @Inject constructor(
 }
 ```
 
-</details>
-
-<details>
-<summary>ViewModel 에시</summary>
+- ViewModel ([MainViewModel.kt](https://github.com/namhyun-gu/geo-key/blob/master/app/src/main/java/dev/namhyun/geokey/ui/main/MainViewModel.kt))
 
 ```kotlin
 @ExperimentalCoroutinesApi
@@ -123,8 +118,6 @@ class MainViewModel @ViewModelInject constructor(
 
 ```
 
-</details>
-
-### 스크린샷
+## 스크린샷
 
 <!-- TODO -->

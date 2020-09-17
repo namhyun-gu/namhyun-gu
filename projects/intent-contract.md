@@ -1,22 +1,24 @@
 # intent-contract
 
-> 타입에 안전한 Intent 사용을 위한 라이브러리입니다.
+타입에 안전한 Intent 사용을 위한 라이브러리입니다.
 
-### 바로가기
+## 바로가기
 
 - [Github](https://github.com/namhyun-gu/intent-contract)
 - [Bintray](https://bintray.com/namhyun-gu/intentcontract/intentcontract-compiler/0.1.2)
 
-### 사용한 언어
+## 프로젝트 정보
+
+### 언어
 
 - Kotlin
 
-### 사용한 기술
+### 기술
 
 - **Annotation Processor**
 - KotlinPoet
 
-### 노트
+## 노트
 
 이 프로젝트는 안드로이드를 개발할 때 Intent를 통해 다른 Activity에 값을 전달할 때 타입에 맞지 않게 데이터가 전달되어 발생하는 오류를 줄여보고자 Annotation Processor를 처음으로 배워 적용해본 라이브러리 프로젝트입니다.
 

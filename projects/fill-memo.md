@@ -1,27 +1,25 @@
 # fill-memo
 
-> 졸업 프로젝트로 진행한 프로젝트로 메모의 형식으로 서식 있는 텍스트, 마크다운을 지원하고 외부 로그인 서비스 없이 여러 기기에서 동기화하여 이용할 수 있는 웹/앱입니다.
+졸업 프로젝트로 진행한 프로젝트로 메모의 형식으로 서식 있는 텍스트, 마크다운을 지원하고 외부 로그인 서비스 없이 여러 기기에서 동기화하여 이용할 수 있는 **웹/앱**입니다.
 
-### 바로가기
+## 바로가기
 
 - [Github - Client](https://github.com/smu-gp/fill-memo)
 - [Github - Auth Server](https://github.com/smu-gp/sp-auth-server)
 
-### 사용한 언어
+## 프로젝트 정보
+
+### 언어
+
+- Client : Dart
+- Auth Server : Go
+
+### 기술
 
 - Client
-
-  - Dart
-
-- Auth Server
-  - Go
-
-### 사용한 기술
-
-- Client
-
   - Flutter
-  - Firebase Cloud Firestore
+  - Firebase (Cloud Firestore, Auth, Crashlystics)
+  - gRPC
 
 - Auth Server
   - gRPC
@@ -29,10 +27,9 @@
 
 ### 아키텍처
 
-- Client
-  - BLoC
+- Client : BLoC
 
-### 맡은 부분
+## 맡은 부분
 
 - 메인 (메모 리스트)
 - 폴더 기능
@@ -40,7 +37,7 @@
 - 세션 공유를 위한 인증 서버
 - 개발한 앱을 웹으로 마이그레이션
 
-### 노트
+## 노트
 
 이 프로젝트는 졸업 프로젝트로 진행했으며 처음으로 Flutter을 사용하여 애플리케이션을 개발해봤습니다.
 
@@ -66,7 +63,7 @@ Flutter의 TextField 동작 과정을 소스코드 분석을 통해 알아냈고
 
 ![auth_sequence](art/auth_sequence.png)
 
-### 스크린샷
+## 스크린샷
 
 - Rich Text Editor
 

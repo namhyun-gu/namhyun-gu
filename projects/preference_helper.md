@@ -1,22 +1,24 @@
 # preference_helper
 
-> Flutter를 BLoC 아키텍처 패턴으로 개발할 때 SharedPreferences를 쉽게 이용할 수 있도록 만든 라이브러리입니다.
+Flutter를 BLoC 아키텍처 패턴으로 개발할 때 SharedPreferences를 쉽게 이용할 수 있도록 만든 라이브러리입니다.
 
-### 바로가기
+## 바로가기
 
 - [Github](https://github.com/namhyun-gu/preference-helper)
 - [Pub.dev](https://pub.dev/packages/preference_helper)
 
-### 사용한 언어
+## 프로젝트 정보
+
+## 언어
 
 - Dart
 
-### 사용한 기술
+## 기술
 
 - Flutter
 - BLoC
 
-### 노트
+## 노트
 
 이 프로젝트는 졸업 프로젝트였던 [fill-memo](https://github.com/smu-gp/fill-memo)에서 BLoC로 개발을 할 때 SharedPreferences를 조금이나마 편하게 만들어보고자 개발하게된 라이브러리입니다.
 

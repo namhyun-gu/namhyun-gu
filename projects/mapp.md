@@ -1,39 +1,37 @@
 # mapp
 
-> 임베디드 소프트웨어 수업의 팀 프로젝트로 맛집을 소개하는 애플리케이션입니다.
+임베디드 소프트웨어 수업의 팀 프로젝트로 맛집을 소개하는 애플리케이션입니다.
 
-### 바로가기
+## 바로가기
 
 - [Github](https://github.com/team-mapp/mapp)
 
-### 사용한 언어
+## 프로젝트 정보
+
+### 언어
 
 - Kotlin
 
-### 사용한 기술
+### 기술
 
 - **Coroutine**
 - **Koin (DI)**
 - Room database
 - Naver Map
-- Firebase
-  - Cloud Firestore
-  - Firebase Messaging
-  - Firebase Auth
-  - Firebase Storage
+- Firebase (Cloud Firestore, Firebase Messaging, Firebase Auth, Firebase Storage)
 
 ### 아키텍처
 
 - MVVM
 
-### 맡은 부분
+## 맡은 부분
 
 - 메인 (셀럽, 프로그램 리스트)
 - 검색 기능 (자동완성 포함)
 - 리뷰 알림 기능
 - 프로젝트 아키텍처 설계
 
-### 노트
+## 노트
 
 이 프로젝트는 학교 수업의 팀 프로젝트로 진행되었던 프로젝트입니다.
 
@@ -118,4 +116,4 @@ class SearchViewModel(
 }
 ```
 
-### 스크린샷
+## 스크린샷

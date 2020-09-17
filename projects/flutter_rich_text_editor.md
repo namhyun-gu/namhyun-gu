@@ -1,16 +1,18 @@
 # flutter_rich_text_editor
 
-> Flutter에서 이용 가능한 서식 있는 텍스트 에디터를 제공하는 라이브러리입니다.
+Flutter에서 이용 가능한 서식 있는 텍스트 에디터를 제공하는 라이브러리입니다.
 
-### 바로가기
+## 바로가기
 
 - [Github](https://github.com/namhyun-gu/flutter_rich_text_editor)
 
-### 사용한 언어
+## 프로젝트 정보
+
+### 언어
 
 - Dart
 
-### 사용한 기술
+### 기술
 
 - Flutter
 
@@ -58,6 +60,6 @@ StyleToolbar(
 )
 ```
 
-### 스크린샷
+## 스크린샷
 
 ![example](https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_1.png)

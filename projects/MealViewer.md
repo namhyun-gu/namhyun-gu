@@ -1,17 +1,19 @@
 # MealViewer
 
-> Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니다. 플레이스토어에 처음 게시해본 애플리케이션이며, 5,000명정도의 다운로드 수, 4.4점의 평점을 기록하였습니다.
+Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니다. 플레이스토어에 처음 게시해본 애플리케이션이며, 5,000명정도의 다운로드 수, 4.4점의 평점을 기록하였습니다.
 
-### 바로가기
+## 바로가기
 
 - [Github](https://github.com/namhyun-gu/MealViewer)
 - [Play Store](https://play.google.com/store/apps/details?id=com.earlier.yma&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
-### 사용한 언어
+## 프로젝트 정보
+
+### 언어
 
 - Java
 
-### 사용한 기술
+### 기술
 
 - **Dagger 2**
 - **RxJava**
@@ -22,7 +24,7 @@
 
 - **MVP**
 
-### 노트
+## 노트
 
 이 프로젝트는 처음 개발이 이루어질 때 어떠한 아키텍처 패턴을 적용하지 않고 개발이 되었습니다.
 기능 개선과 추가 과정에서 Activity 하나에서 모든 것을 처리하는 방식에서는 코드를 읽기도 어려웠고 관리하기가 까다로웠던 문제가 있어 처음으로 MVP 패턴을 적용하였습니다.
@@ -70,6 +72,6 @@ public void loadData() {
 }
 ```
 
-### 스크린샷
+## 스크린샷
 
 <!-- TODO -->
