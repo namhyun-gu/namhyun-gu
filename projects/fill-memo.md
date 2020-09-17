@@ -65,20 +65,24 @@ Flutter의 TextField 동작 과정을 소스코드 분석을 통해 알아냈고
 
 ## 스크린샷
 
+- Web
+  
+<img src="art/fill_memo_web.png">
+
 - Rich Text Editor
 
-![rich-text-editor_1](https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_1.png)
-![rich-text-editor_2](https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_2.png)
-![rich-text-editor_3](https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_3.png)
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_1.png" width="320">
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_2.png" width="320">
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_3.png" width="320">
 
 - Markdown
 
-![markdown_1](https://github.com/smu-gp/fill-memo/raw/master/art/markdown_1.png)
-![markdown_2](https://github.com/smu-gp/fill-memo/raw/master/art/markdown_2.png)
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/markdown_1.png" width="320">
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/markdown_2.png" width="320">
 
 - Connection
 
-![connection_1](https://github.com/smu-gp/fill-memo/raw/master/art/connection_1.png)
-![connection_2](https://github.com/smu-gp/fill-memo/raw/master/art/connection_2.png)
-![connection_3](https://github.com/smu-gp/fill-memo/raw/master/art/connection_3.png)
-![connection_4](https://github.com/smu-gp/fill-memo/raw/master/art/connection_4.png)
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_1.png" width="320">
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_2.png" width="320">
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_3.png" width="320">
+<img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_4.png" width="320">

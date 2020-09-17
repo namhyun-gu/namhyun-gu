@@ -116,5 +116,3 @@ class SyncDatabaseWorker : Worker() {
     // ...
 }
 ```
-
-## 스크린샷
