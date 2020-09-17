@@ -74,4 +74,5 @@ public void loadData() {
 
 ## 스크린샷
 
-<!-- TODO -->
+<img src="art/MealViewer_1.jpg" width="320">
+<img src="art/MealViewer_2.jpg" width="320">

@@ -120,4 +120,6 @@ class MainViewModel @ViewModelInject constructor(
 
 ## 스크린샷
 
-<!-- TODO -->
+<img src="art/geo_key_1.png" width="320">
+<img src="art/geo_key_2.png" width="320">
+<img src="art/geo_key_3.png" width="320">

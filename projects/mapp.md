@@ -117,3 +117,24 @@ class SearchViewModel(
 ```
 
 ## 스크린샷
+
+- 메인
+<img src="art/mapp_1575019418.png" width="320">
+
+- 리뷰 알림
+<img src="art/mapp_1575023454.png" width="320">
+<img src="art/mapp_1575019776.png" width="320">
+
+- 검색
+<img src="art/mapp_1575019857.png" width="320">
+<img src="art/mapp_1575019871.png" width="320">
+
+- 식당 상세
+<img src="art/mapp_1575019929.png" width="320">
+<img src="art/mapp_1575019933.png" width="320">
+
+- 리뷰 작성
+<img src="art/mapp_1575019899.png" width="320">
+
+- 프로필
+<img src="art/mapp_1575023420.png" width="320">
