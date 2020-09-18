@@ -7,6 +7,7 @@
 - [Github - Android](https://github.com/three-s/SceneSpotInSeoul)
 - [Github - Server](https://github.com/three-s/SceneSpotInSeoul-Lambda)
 - [Github - Database Explorer](https://github.com/three-s/SceneSpotInSeoul-Database-Explorer)
+- [데이터 관리 페이지](https://three-s.github.io/SceneSpotInSeoul-Database-Explorer/)
 
 ## 프로젝트 정보
 

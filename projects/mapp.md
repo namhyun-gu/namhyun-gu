@@ -122,7 +122,7 @@ class SearchViewModel(
 <img src="art/mapp_1575019418.png" width="320">
 
 - 리뷰 알림
-<img src="art/mapp_1575023454.png" width="320">
+<img src="art/mapp_1575030710.png" width="320">
 <img src="art/mapp_1575019776.png" width="320">
 
 - 검색
