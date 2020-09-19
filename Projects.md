@@ -59,7 +59,7 @@
 
 - [BitcoinSimulator](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/BitcoinSimulator.md)
 
-  Bithumb의 비트코인 시세 API를 비트코인 투자를 시뮬레이션 해볼 수 있는 애플리케이션입니다.  
+  Bithumb의 비트코인 시세 API를 통해 비트코인 투자를 시뮬레이션 해볼 수 있는 애플리케이션입니다.  
 
   - 언어 : **Kotlin**
   - 기술 : **Android Architecture Component, RxJava**, Realm Database
