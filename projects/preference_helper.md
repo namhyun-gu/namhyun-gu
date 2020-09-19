@@ -2,6 +2,13 @@
 
 Flutter를 BLoC 아키텍처 패턴으로 개발할 때 SharedPreferences를 쉽게 이용할 수 있도록 만든 라이브러리입니다.
 
+- [바로가기](#바로가기)
+- [프로젝트 정보](#프로젝트-정보)
+  - [언어](#언어)
+  - [기술](#기술)
+- [노트](#노트)
+
+
 ## 바로가기
 
 - [Github](https://github.com/namhyun-gu/preference-helper)
@@ -9,11 +16,11 @@ Flutter를 BLoC 아키텍처 패턴으로 개발할 때 SharedPreferences를 쉽
 
 ## 프로젝트 정보
 
-## 언어
+### 언어
 
 - Dart
 
-## 기술
+### 기술
 
 - Flutter
 - BLoC
