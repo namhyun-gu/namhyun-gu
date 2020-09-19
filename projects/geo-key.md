@@ -29,7 +29,7 @@
 
 ## 노트
 
-이 프로젝트는 전부터 사용하던 MVVM 아키텍처가 올바른지 매번 고민했었는데 이를 해소하고자 찾게된 [google/iosched](https://github.com/google/iosched) 프로젝트에 영향을 받아 Clean Architecture 와 MVVM 패턴, Coroutine을 이용하여 개발한 프로젝트입니다.
+이 프로젝트는 전부터 사용하던 MVVM 아키텍처가 올바른지 매번 고민했었는데 이를 해소하고자 찾게된 [google/iosched](https://github.com/google/iosched) 프로젝트에 영향을 받아 Clean Architecture 와 MVVM 패턴, Coroutine를 이용하여 개발한 프로젝트입니다.
 
 프로젝트는 Clean Architecture의 Presenter, Domain, Data Layer를 따라 다음과 같이 설계되었습니다.
 
