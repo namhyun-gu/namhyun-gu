@@ -31,6 +31,10 @@
 
 이 프로젝트는 전부터 사용하던 MVVM 아키텍처가 올바른지 매번 고민했었는데 이를 해소하고자 찾게된 [google/iosched](https://github.com/google/iosched) 프로젝트에 영향을 받아 Clean Architecture 와 MVVM 패턴, Coroutine을 이용하여 개발한 프로젝트입니다.
 
+프로젝트는 Clean Architecture의 Presenter, Domain, Data Layer를 따라 다음과 같이 설계되었습니다.
+
+![architecture](art/geo_key_architecture.png)
+
 UseCase들은 지속적으로 데이터를 전달하는 경우와 그렇지 않은 경우에 따라 구분한 FlowUseCase와 UseCase를 사용하며, Dagger Hilt를 통해 ViewModel에 주입하여 서비스의 기능들을 구현합니다.
 
 현재 Jetpack Navigation을 통해 Single Activity로 전환하고 있으며,
