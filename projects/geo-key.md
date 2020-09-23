@@ -25,8 +25,8 @@
 
 - **Dagger Hilt**
 - **Coroutine**
+- kotlinx.serialization
 - Retrofit
-- Moshi
 - Firebase
   - Cloud Firestore
   - Firebase Auth
