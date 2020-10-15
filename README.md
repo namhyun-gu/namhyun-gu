@@ -9,7 +9,7 @@
 
 - Front-End: JavaScript, TypeScript, React.js, Redux
 - Back-End: Node.js, Go, AWS Lambda, Firebase Functions, gRPC
-- Android Application: Android, Java, Kotlin, Dagger, RxJava, Coroutine
+- Android Application: Java, Kotlin, Dagger, RxJava, Coroutine
 - Cross-platform: Dart, Flutter
 
 [**프로젝트 | Projects**](https://github.com/namhyun-gu/namhyun-gu/blob/master/Projects.md)
