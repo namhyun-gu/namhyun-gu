@@ -1,41 +1,17 @@
-<img src="https://github-readme-stats.vercel.app/api?username=namhyun-gu&show_icons=true" />
+# Namhyun, Gu
 
-## 프로젝트
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/namhyun-gu-b64621157/)](https://www.linkedin.com/in/namhyun-gu-b64621157/)
+[![Mail](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mnhan0403@gmail.com)](mailto:mnhan0403@gmail.com)
 
-프로젝트 별 링크를 통해 세부 정보를 확인할 수 있습니다
+> Android 개발에 가장 관심이 있으며 개발을 하면서, 일상 생활 속 느꼈던 불편함을 해소하기 위해 다양한 기술을 통한 개인 프로젝트를 진행하고 있습니다.
 
-### Android
+**기술 | Skills**
 
-- [geo-key](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/geo-key.md)
-  <p>#Kotlin #Dagger Hilt #MVVM #Clean Architecture #Coroutine </p>
-- [MealViewer](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/MealViewer.md)
-  <p>#Java #Dagger 2 #MVP #RxJava</p>
-- [SceneSpotInSeoul](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/SceneSpotInSeoul.md)
-  <p>#Java #Kotlin #서울시 앱공모전 2018</p>
-- [mapp](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/mapp.md)
-  <p>#Kotlin #Koin #MVVM #Coroutine #학교수업 프로젝트</p>
-- [BitcoinSimulator](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/BitcoinSimulator.md)
-  <p>#Kotlin #MVVM #AAC #RxJava</p>
-- [intent-contract](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/intent-contract.md)
-  <p>#Kotlin #Annotation Processor</p>
+- Front-End: JavaScript, TypeScript, React.js, Redux
+- Back-End: Node.js, Go, AWS Lambda, Firebase Functions, gRPC
+- Android Application: Android, Java, Kotlin, Dagger, RxJava, Coroutine
+- Cross-platform: Dart, Flutter
 
-### Flutter
+[**프로젝트 | Projects**](https://github.com/namhyun-gu/namhyun-gu/blob/master/Projects.md)
 
-- [fill-memo](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/fill-memo.md)
-  <p>#Bloc #gRPC #졸업 프로젝트</p>
-- [flutter_rich_text_editor](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/flutter_rich_text_editor.md)
-  <p>#Library</p>
-- [preference_helper](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/preference_helper.md)
-  <p>#Library #Bloc</p>
-
-### Go
-
-- [key-letter](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/key-letter.md)
-  <p>#gRPC #Redis</p>
-
-### Node.js
-
-- [repo-watcher](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/repo-watcher.md)
-  <p>#Typescript #Babel #메일링 서비스</p>
-- [contest-crawler-bot](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/contest-crawler-bot.md)
-  <p>#Telegram Bot</p>
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=namhyun-gu&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
