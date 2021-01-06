@@ -22,7 +22,7 @@
 - 기술 : Jetpack Compose / Dagger Hilt / Coroutines / Room
 - 아키텍처 : MVVM
 
-### [repo-watcher]()
+### [repo-watcher](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/repo-watcher.md)
 
 <p>
   <img src="icons/typescript.png" height="24" weight="24"/>
@@ -30,7 +30,7 @@
 
 - 2020.08 ~ 2020.10
 - Repository에 업데이트 된 커밋 내용을 메일을 통해 받을 수 있도록 하는 서비스
-- 기술 : Github Actions, nodemailer
+- 기술 : Github Actions / nodemailer
 
 ### [geo-key](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/geo-key.md)
 
@@ -41,7 +41,7 @@
 
 - 2020.06
 - 위치를 기반으로 키를 저장하고, 저장한 키를 관리할 수 있는 애플리케이션
-- 기술 : Dagger Hilt, Coroutines, Firebase, Naver Map
+- 기술 : Dagger Hilt / Coroutines / Firebase / Naver Map
 - 아키텍처 : MVVM
 
 ### [intent-contract](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/intent-contract.md)
@@ -69,19 +69,19 @@
   - 메인 화면 내 셀럽, 프로그램 리스트 및 알림 리스트
   - 셀럽, 프로그램 내용의 자동완성을 포함한 검색 기능
   - 즐겨찾기한 맛집에 새 리뷰가 작성될 때 알림을 전달하는 기능
-- 기술 : Koin (DI), Coroutine, Room database, Firebase, Naver Map
+- 기술 : Koin (DI) / Coroutine / Room database / Firebase / Naver Map
 - 아키텍처 : MVVM
 
 ### [contest-crawler-bot](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/contest-crawler-bot.md)
 
 <p>
-  <img src="icons/javascript.png" height="24" weight="24" />
+  <img src="icons/node.png" height="24" weight="24" />
   <img src="icons/telegram.png" height="24" weight="24" />
 </p>
 
 - 2019.07
 - 공모전 정보를 크롤링하고 업데이트 된 공모전 정보를 텔레그램 봇을 통해 알려주는 서비스
-- 기술 : Express, Telegram Bot API, Firebase
+- 기술 : Express / Telegram Bot API / Firebase
 
 ## [fill-memo](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/fill-memo.md)
 
@@ -105,8 +105,8 @@
   - 동기화 기능 제공에 있어 세션 공유를 위한 인증 서버
   - 개발된 App을 Web에 호환되도록 마이그레이션
 - 기술
-  - App, Web : Flutter, Firebase, gRPC
-  - Auth Server : gRPC, Redis
+  - App, Web : Flutter / Firebase / gRPC
+  - Auth Server : gRPC / Redis
 - 아키텍처
   - App, Web : BLoC
 ## 2018
@@ -116,7 +116,7 @@
 <p>
   <img src="icons/kotlin.png" height="24" weight="24" />
   (App)
-  <img src="icons/javascript.png" height="24" weight="24" />
+  <img src="icons/node.png" height="24" weight="24" />
   <img src="icons/aws-lambda.png" height="24" weight="24" />
   <img src="icons/aws-dynamodb.png" height="24" weight="24" />
   (Server)
@@ -134,8 +134,8 @@
   - 앱 내 내부 DB와 서버 DB를 동기화하는 기능
   - 서버 (AWS lambda) 및 DB 관리 페이지 (React) 구현
 - 기술
-  - App : Android Architecture Component (AAC), Room Database
-  - Server : Serverless framework, AWS lambda, AWS dynamoDB
+  - App : Android Architecture Component (AAC) / Room Database
+  - Server : Serverless framework / AWS lambda / AWS dynamoDB
   - DB 관리 페이지 : React
 
 ## 2017
@@ -149,7 +149,7 @@
 
 - 2017.12
 - Bithumb 비트코인 시세 API를 활용하여 비트코인 투자를 시뮬레이션 해볼 수 있는 애플리케이션
-- 기술 : Android Architecture Component, RxJava, Realm Database
+- 기술 : Android Architecture Component / RxJava / Realm Database
 - 아키텍처 : MVVM
 
 ## 2013
@@ -165,6 +165,6 @@
 - Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션
 - Play Store에 게시한 애플리케이션
 - 5,000명정도의 다운로드 수, 4.4점의 평점 기록
-- 기술 : Dagger 2, RxJava, Realm Database
+- 기술 : Dagger 2 / RxJava / Realm Database
 - 아키텍처 : MVP
 - [Play Store 바로가기](https://play.google.com/store/apps/details?id=com.earlier.yma&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
