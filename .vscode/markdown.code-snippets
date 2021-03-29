@@ -1,0 +1,10 @@
+{
+	"Icon Image": {
+		"prefix": "icon",
+		"scope": "markdown",
+		"body": [
+		  "<img src=\"${1}\" height=\"24\" weight=\"24\"/>"
+		],
+		"description": "Icon Image"
+	},
+}
