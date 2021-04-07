@@ -68,8 +68,8 @@
 - 맡은 부분
   - 메인 화면 내 셀럽, 프로그램 리스트 및 알림 리스트
   - 셀럽, 프로그램 내용의 자동완성을 포함한 검색 기능
-  - 즐겨찾기한 맛집에 새 리뷰가 작성될 때 알림을 전달하는 기능
-- 기술 : Kotlin / Koin (DI) / Coroutine / Room database / Firebase / Naver Map
+  - 즐겨찾기한 맛집에 새 리뷰가 작성될 때 알림을 전달하는 기능 (FCM)
+- 기술 : Kotlin / Koin (DI) / Kotlin Coroutines / Room database / Firebase / Naver Map
 - 아키텍처 : MVVM
 
 ### [contest-crawler-bot](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/contest-crawler-bot.md)
@@ -84,7 +84,7 @@
 - Flutter에서 서식 있는 텍스트 에디터를 이용하기 위해 개발한 라이브러리입니다.
 - 구현 방법
   - `TextField` 위젯이 `TextEditingController`라는 컨트롤러에 의해 `TextSpan` 객체로 텍스트를 표현함을 발견하여, `TextEditingController`를 확장한 `SpannableTextEditingController` 구현
-  - `SpannableTextEditingController`에는 텍스트와 `SpannbleStyle`이라는 스타일을 저장하는 `SpannbleList`를 가지며, `SpannableStyle`은 하나의 정수를 포함하여 `bit masking`을 이용하여 스타일을 표현
+  - `SpannableTextEditingController`에는 텍스트와 `SpannbleStyle`이라는 스타일을 저장하는 `SpannbleList`를 가지며, `SpannableStyle`은 하나의 정수를 포함하여 비트 연산을 이용하여 스타일을 표현
   - `SpannbleList`를 통해 `TextSpan`을 객체를 생성할 수 있으며 이때 같은 스타일끼리 그룹을 만들어 하나의 `TextSpan`으로 텍스트를 표현
   - 텍스트의 변경을 감지하기 위해 Google의 `diff_patch_match` 라이브러리를 이용하여 삽입/삭제 여부를 알아내어 `SpannableList`을 확장/축소하여 올바른 `TextSpan` 객체를 만들 수 있도록 함
 - 기술 : Dart / Flutter
