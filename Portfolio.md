@@ -31,7 +31,7 @@
 - 기술 : Kotlin / Jetpack Compose / Dagger Hilt / Coroutines / Room
 - 아키텍처 : MVVM
 
-### [repo-watcher](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/repo-watcher.md)
+### [repo-watcher](https://github.com/namhyun-gu/repo-watcher)
 
 - 2020.08 ~ 2020.10
 - 하루 동안 Repository에 업데이트된 커밋 메시지들을 메일을 통해 받을 수 있도록 하는 프로젝트입니다.
@@ -72,7 +72,7 @@
 - 기술 : Kotlin / Koin (DI) / Kotlin Coroutines / Room database / Firebase / Naver Map
 - 아키텍처 : MVVM
 
-### [contest-crawler-bot](https://github.com/namhyun-gu/namhyun-gu/blob/master/projects/contest-crawler-bot.md)
+### [contest-crawler-bot](https://github.com/namhyun-gu/contest-crawler-bot)
 
 - 2019.07
 - 공모전 정보를 크롤링 하여 새로 공개된 공모전 정보를 텔레그램 봇을 통해 알려주는 프로젝트입니다.

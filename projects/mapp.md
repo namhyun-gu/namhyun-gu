@@ -1,6 +1,8 @@
-# mapp
+<h1 align="center">mapp</h1>
 
+<p align="center">
 임베디드 소프트웨어 수업의 팀 프로젝트로 맛집을 소개하는 애플리케이션입니다.
+</p>
 
 - [바로가기](#바로가기)
 - [프로젝트 정보](#프로젝트-정보)
@@ -129,22 +131,40 @@ class SearchViewModel(
 ## 스크린샷
 
 - 메인
-<img src="art/mapp_1575019418.png" width="320">
+
+<p align="left">
+    <img src="art/mapp_1575019418.png" width="32%"/>
+</p>
 
 - 리뷰 알림
-<img src="art/mapp_1575030710.png" width="320">
-<img src="art/mapp_1575019776.png" width="320">
+
+<p align="left">
+    <img src="art/mapp_1575030710.png" width="32%"/>
+    <img src="art/mapp_1575019776.png" width="32%"/>
+</p>
 
 - 검색
-<img src="art/mapp_1575019857.png" width="320">
-<img src="art/mapp_1575019871.png" width="320">
+
+<p align="left">
+    <img src="art/mapp_1575019857.png" width="32%"/>
+    <img src="art/mapp_1575019871.png" width="32%"/>
+</p>
 
 - 식당 상세
-<img src="art/mapp_1575019929.png" width="320">
-<img src="art/mapp_1575019933.png" width="320">
+
+<p align="left">
+    <img src="art/mapp_1575019929.png" width="32%"/>
+    <img src="art/mapp_1575019933.png" width="32%"/>
+</p>
 
 - 리뷰 작성
-<img src="art/mapp_1575019899.png" width="320">
+
+<p align="left">
+    <img src="art/mapp_1575019899.png" width="32%"/>
+</p>
 
 - 프로필
-<img src="art/mapp_1575023420.png" width="320">
+
+<p align="left">
+    <img src="art/mapp_1575023420.png" width="32%"/>
+</p>

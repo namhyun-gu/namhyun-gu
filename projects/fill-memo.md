@@ -1,6 +1,8 @@
-# fill-memo
+<h1 align="center">fill-memo</h1>
 
-졸업 프로젝트로 진행한 프로젝트였으며, 서식 있는 텍스트, 마크다운을 통한 메모 작성을 지원하고, 여러 기기에서 연동해 이용할 수 있는 웹/앱입니다.
+<p align="center">
+졸업 프로젝트로 진행한 프로젝트였으며, 서식 있는 텍스트 및 마크다운을 통한 메모 작성을 지원하며 동기화 가능하고 웹/앱을 지원합니다.
+</p>
 
 - [바로가기](#바로가기)
 - [프로젝트 정보](#프로젝트-정보)
@@ -10,7 +12,6 @@
 - [맡은 부분](#맡은-부분)
 - [노트](#노트)
 - [스크린샷](#스크린샷)
-
 
 ## 바로가기
 
@@ -51,7 +52,7 @@
 
 이 프로젝트는 졸업 프로젝트로 진행했으며 처음으로 Flutter을 사용하여 애플리케이션을 개발해봤습니다.
 
-프로젝트를 진행하며 서식 있는 텍스트 메모 기능을 구현하는 것이 가장 어려운 과제였으며 메모 기능 구현을 위해
+프로젝트를 진행하며 서식 있는 텍스트 메모 기능을 구현하는 것이 가장 어려운 과제였으며 기능 구현을 위해
 Flutter의 TextField 동작 과정을 소스코드 분석을 통해 알아냈고 다음과 같은 설계로 구현했습니다.
 
 ![rich_text_editor](art/fill_memo_rich_text_editor.png)
@@ -84,18 +85,27 @@ Flutter의 TextField 동작 과정을 소스코드 분석을 통해 알아냈고
 
 - Rich Text Editor
 
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_1.png" width="320">
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_2.png" width="320">
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_3.png" width="320">
+<p align="center">
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_1.png" width="32%"/>
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_2.png" width="32%"/>
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/rich-text-editor_3.png" width="32%"/>
+</p>
 
 - Markdown
 
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/markdown_1.png" width="320">
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/markdown_2.png" width="320">
+<p align="left">
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/markdown_1.png" width="32%"/>
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/markdown_2.png" width="32%"/>
+</p>
 
 - Connection
 
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_1.png" width="320">
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_2.png" width="320">
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_3.png" width="320">
-<img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_4.png" width="320">
+<p align="left">
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_1.png" width="32%"/>
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_2.png" width="32%"/>
+</p>
+
+<p align="left">
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_3.png" width="32%"/>
+    <img src="https://github.com/smu-gp/fill-memo/raw/master/art/connection_4.png" width="32%"/>
+</p>

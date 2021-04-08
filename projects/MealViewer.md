@@ -1,6 +1,14 @@
-# MealViewer
+<h1 align="center">MealViewer</h1>
 
-Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니다. 플레이스토어에 처음 게시해본 애플리케이션이며, 5,000명정도의 다운로드 수, 4.4점의 평점을 기록하였습니다.
+<p align="center">
+Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니다. 플레이스토어에 처음 게시해본 애플리케이션이며,</br>
+5,000명정도의 다운로드 수, 4.4점의 평점을 기록하였습니다.
+</p>
+
+<p align="center">
+    <img src="art/MealViewer_1.jpg" width="32%"/>
+    <img src="art/MealViewer_2.jpg" width="32%"/>
+</p>
 
 - [바로가기](#바로가기)
 - [프로젝트 정보](#프로젝트-정보)
@@ -8,8 +16,6 @@ Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니�
   - [기술](#기술)
   - [아키텍처](#아키텍처)
 - [노트](#노트)
-- [스크린샷](#스크린샷)
-
 
 ## 바로가기
 
@@ -80,8 +86,3 @@ public void loadData() {
           });
 }
 ```
-
-## 스크린샷
-
-<img src="art/MealViewer_1.jpg" width="320">
-<img src="art/MealViewer_2.jpg" width="320">
