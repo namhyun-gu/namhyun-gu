@@ -6,7 +6,7 @@
 
 ### [brick](https://github.com/namhyun-gu/brick)
 
-- 2021.03
+- 2021.03 ~
 - 안드로이드 개발에 주로 사용되는 라이브러리들을 카테고리 별로 미리 구성하여 필요한 라이브러리를 명령어를 통해 최신 버전으로 구성할 수 있게 도와주는 CLI 애플리케이션입니다.
   ```bash
   $ ./brick get jetpack:activity jetpack:material --gradle=kotlin
