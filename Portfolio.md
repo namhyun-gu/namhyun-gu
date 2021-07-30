@@ -65,7 +65,7 @@ Jetpack Compose를 이용하여 개발한 플래시 카드 애플리케이션입
 - 알림 리스트를 구현하기 위해 수신 된 알림을 Room 데이터베이스에 저장하여 실시간으로 표시합니다.
 - 리스트와 알림 내 이미지를 제공하기 위해 Glide를 사용하였습니다.
 - Custom View를 이용하여 프로필과 리스트 아이템 뷰를 재사용했습니다.
-- 리스트 아이템마다의 배경 색을 Palette를 사용하여 이미지에서 색상을 추출했습니다.
+- Palette를 사용하여 이미지에서 색상을 추출 아이템의 배경 색을 변경했습니다.
 
 ### [flutter_rich_text_editor](https://github.com/namhyun-gu/flutter_rich_text_editor)
 
@@ -143,7 +143,19 @@ Bithumb의 시세 API를 이용하여 비트코인에 대한 시세를 알아내
 
 Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니다.
 
-- 2013.08 ~ 2017.05
+2021.07
+
+- 기술 : Kotlin / Dagger Hilt / Jetpack Compose / Room Database / Coroutines
+- 학습을 위해 만들었던 앱을 새 기술들을 활용하여 리팩터링했습니다.
+- Jetpack Compose를 이용하여 UI를 구성하였습니다.
+- DI를 적용하기 위해 Dagger Hilt를 사용하였습니다.
+- 아키텍처로 MVVM을 적용하였습니다.
+- 학교 검색 시 여러 페이지로 결과가 주어지기에 페이징 구현을 위해 Paging 라이브러리를 사용했습니다.
+- 비동기 작업을 처리하기 위해 Coroutines을 사용하였습니다.
+- 요청 가능한 API 횟수가 정해져있기 때문에 요청을 최소화하고자 Room database를 통해 캐시 기능을 구현하였습니다.
+
+2013.08 ~ 2017.05
+
 - 기술 : Java / Dagger 2 / RxJava / Realm Database
 - 5,000여 명이 다운로드하였으며 4.4의 평점을 받았습니다.
 - DI를 적용하기 위해 Dagger 2를 이용하였습니다.
