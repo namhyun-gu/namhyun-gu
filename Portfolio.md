@@ -12,7 +12,7 @@ Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니�
 (2021.06 ~ 2021.07)
 
 - 기술 : Kotlin / Dagger Hilt / Jetpack Compose / Room Database / Coroutines
-- 학습을 위해 만들었던 앱을 새 기술들을 활용하여 리팩터링했습니다.
+- 학습을 위해 만들었던 앱을 새 기술들을 활용하여 다시 개발하였습니다.
 - Jetpack Compose를 이용하여 UI를 구성하였습니다.
 - DI를 적용하기 위해 Dagger Hilt를 사용하였습니다.
 - 아키텍처로 MVVM을 적용하였습니다.
