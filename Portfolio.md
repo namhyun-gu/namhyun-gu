@@ -5,15 +5,31 @@
 
 ## 2021
 
-### [brick](https://github.com/namhyun-gu/brick)
+### [MealViewer](https://github.com/namhyun-gu/MealViewer)
 
-안드로이드 개발에 주로 사용되는 라이브러리들을 카테고리 별로 미리 구성하여 명령어를 통해 최신 버전의 라이브러리 구성을 도와주는 CLI 애플리케이션입니다.
+Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니다.
 
-- 2021.03 ~
-- 기술 : Go / Github API
-- Go 언어와 CLI 개발을 도와주는 Cobra 라이브러리로 개발하였습니다.
-- Github에 올린 구성 파일들을 다운로드 하기 위해 Github API를 활용하였습니다.
-- 여러 Repository에 저장 된 구성 파일에 접근할 수 있도록 Scoop 서비스의 Bucket 개념을 적용했습니다.
+(2021.06 ~ 2021.07)
+
+- 기술 : Kotlin / Dagger Hilt / Jetpack Compose / Room Database / Coroutines
+- 학습을 위해 만들었던 앱을 새 기술들을 활용하여 리팩터링했습니다.
+- Jetpack Compose를 이용하여 UI를 구성하였습니다.
+- DI를 적용하기 위해 Dagger Hilt를 사용하였습니다.
+- 아키텍처로 MVVM을 적용하였습니다.
+- 학교 검색 시 여러 페이지로 결과가 주어지기에 페이징 구현을 위해 Paging 라이브러리를 사용했습니다.
+- 비동기 작업을 처리하기 위해 Coroutines을 사용하였습니다.
+- 요청 가능한 API 횟수가 정해져있기 때문에 요청을 최소화하고자 Room database를 통해 캐시 기능을 구현하였습니다.
+
+(2013.08 ~ 2017.05)
+
+- 기술 : Java / Dagger 2 / RxJava / Realm Database
+- 5,000여 명이 다운로드하였으며 4.4의 평점을 받았습니다.
+- DI를 적용하기 위해 Dagger 2를 이용하였습니다.
+- 아키텍처로 MVP를 적용하였습니다.
+- 급식 정보를 가져오기 위해 Retrofit를 이용하였습니다.
+- 비동기 작업을 처리하기 위해 RxJava를 이용하였습니다.
+- 급식 정보를 로컬에 저장하여 캐시로 이용하기 위해 Realm를 이용하였습니다.
+- https://play.google.com/store/apps/details?id=com.earlier.yma
 
 ## 2020
 
@@ -136,31 +152,3 @@ Bithumb의 시세 API를 이용하여 비트코인에 대한 시세를 알아내
 - 아키텍처로 MVVM을 적용하였습니다.
 - 비동기 작업을 처리하기 위해 RxJava를 이용하였습니다.
 - 코인을 투자한 지갑 정보를 저장하기 위해 Realm를 이용하였습니다.
-
-## 2013
-
-### [MealViewer](https://github.com/namhyun-gu/MealViewer)
-
-Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니다.
-
-2021.07
-
-- 기술 : Kotlin / Dagger Hilt / Jetpack Compose / Room Database / Coroutines
-- 학습을 위해 만들었던 앱을 새 기술들을 활용하여 리팩터링했습니다.
-- Jetpack Compose를 이용하여 UI를 구성하였습니다.
-- DI를 적용하기 위해 Dagger Hilt를 사용하였습니다.
-- 아키텍처로 MVVM을 적용하였습니다.
-- 학교 검색 시 여러 페이지로 결과가 주어지기에 페이징 구현을 위해 Paging 라이브러리를 사용했습니다.
-- 비동기 작업을 처리하기 위해 Coroutines을 사용하였습니다.
-- 요청 가능한 API 횟수가 정해져있기 때문에 요청을 최소화하고자 Room database를 통해 캐시 기능을 구현하였습니다.
-
-2013.08 ~ 2017.05
-
-- 기술 : Java / Dagger 2 / RxJava / Realm Database
-- 5,000여 명이 다운로드하였으며 4.4의 평점을 받았습니다.
-- DI를 적용하기 위해 Dagger 2를 이용하였습니다.
-- 아키텍처로 MVP를 적용하였습니다.
-- 급식 정보를 가져오기 위해 Retrofit를 이용하였습니다.
-- 비동기 작업을 처리하기 위해 RxJava를 이용하였습니다.
-- 급식 정보를 로컬에 저장하여 캐시로 이용하기 위해 Realm를 이용하였습니다.
-- https://play.google.com/store/apps/details?id=com.earlier.yma
