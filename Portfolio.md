@@ -5,7 +5,7 @@
 
 ## 2021
 
-### [MealViewer](https://github.com/namhyun-gu/MealViewer)
+### [급식돌이](https://github.com/namhyun-gu/MealViewer)
 
 Neis 서비스의 학교 급식 정보를 제공하는 애플리케이션입니다.
 
